@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next">Prossima</string>
+    <string name="previous">Precedente</string>
+</resources>
